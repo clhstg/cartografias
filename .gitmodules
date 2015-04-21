@@ -1,3 +1,9 @@
 [submodule "wp"]
 	path = wp
 	url = git://github.com/WordPress/WordPress.git
+[submodule "content/mu-plugins/simple-fields"]
+	path = content/mu-plugins/simple-fields
+	url = https://github.com/wp-plugins/simple-fields
+[submodule "content/plugins/sqlite-integration"]
+	path = content/plugins/sqlite-integration
+	url = https://github.com/wp-plugins/sqlite-integration
