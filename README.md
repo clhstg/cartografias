@@ -16,4 +16,4 @@ Inside `content/themes/cartografias`, run:
 ### Considerations
 - Uses sqlite but should not use it in production (just remove `content/db.php`, `content/database` and `content/plugins/sqlite-integration`).
 
-- [npmjs](www.npmjs.com) is being used for front end development.
+- [npmjs](https://www.npmjs.com) is being used to install gulp and gulp packages.
