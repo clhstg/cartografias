@@ -6,3 +6,4 @@
 .DS_Store
 .sass-cache
 content/database
+node_modules
